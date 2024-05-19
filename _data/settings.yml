@@ -9,16 +9,16 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Projects'
-      url: '/project'
+      url: '/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
-      url: '/'
+      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: In future, We have to fully control AI. There will be more problems to solve. 
 
 hero_settings:
   overlay_opacity: 0.8
