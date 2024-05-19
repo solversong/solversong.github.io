@@ -7,7 +7,7 @@ featured_image: /images/demo/running.jpeg
 
 # Hi Everyone. I'm In Sung Song!
 
-![Profile](/images/demo/issong.jpg){: width="200" height="200" style="float: left; margin-left: 20px; margin-bottom: 30px;"}
+![Profile](/images/demo/issong.jpg){: width="200" height="200" style="float: left; margin-left: 20px; right; margin-right:5px; margin-bottom: 30px;"}
 
 I'm an AI researcher who is especially interested in Multi-Modal learning, because it is the most similar way for machine to learn as human beings. 
 
@@ -19,7 +19,7 @@ Feel free to contact me on social profile and email! I will link the following p
 <a href="mailto:insungsong5@gmail.com" class="button button--medium"><i class="fa fa-envelope"></i> E-mail</a>
 <a href="https://github.com/solversong" target="_blank" class="button button--medium"><i class="fa-brands fa-github"></i> Github</a>
 <a href="https://www.linkedin.com/in/in-sung-song-437639271/" target="_blank" class="button button--medium"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
-<a href="https://www.instagram.com/is_motivation_ss0ng/" class="button button--large"><i class="fa-brands fa-instagram"></i>  Instagram</a>
+<a href="https://www.instagram.com/is_motivation_ss0ng/" class="button button--medium"><i class="fa-brands fa-instagram"></i>  Instagram</a>
 <br/>
 
 <hr/>
