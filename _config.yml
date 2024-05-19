@@ -1,7 +1,7 @@
 site: Personal Jekyll Theme
 
 url: solversong.github.io
-baseurl: 
+baseurl: solversong.github.io
 
 collections:
   pages:
