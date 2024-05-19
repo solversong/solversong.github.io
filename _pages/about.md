@@ -1,15 +1,28 @@
 ---
-title: About me
+title: In Sung Song
 subtitle: I live my life focusing on the problems in the world.  
 description: I live my life focusing on the problems in the world. AI is the technology that humanity must learn and control. It can solve many problems but also can be the greatest threat to humanity. I want to learn to control AI.
-featured_image: /images/demo/about.jpg
+featured_image: /images/demo/running.jpeg
 ---
+
+# Hi, Everyone! I'm In Sung Song!
+
+![Profile](/images/demo/issong.jpg)
+I'm an AI researcher who is especially interested in Multi-Modal learning, which is the similar way of machine to learn just as human beings. 
+
+<br/>
+Feel free to contact on my social profile and email! I will link the following pages and also my CV!.
+
+<a href="/pdf/송인성_CV.pdf" target="_blank" class="button button--medium"><i class="fa fa-file-pdf"></i> CV</a>
+<a href="mailto:insungsong5@gmail.com" class="button button--medium"><i class="fa fa-envelope"></i> E-mail</a>
+<a href="https://github.com/solversong" target="_blank" class="button button--medium"><i class="fa-brands fa-github"></i> Github</a>
+<a href="https://www.linkedin.com/in/in-sung-song-437639271/" target="_blank" class="button button--medium"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+<a href="https://www.instagram.com/is_motivation_ss0ng/" class="button button--large"><i class="fa-</i> Instagram</a>
+<br/>
 
 ## Goal
 
-I want to learn to control AI. AI is the technology that humanity must learn and control. It can solve many problems but also can be the greatest threat to humanity.
+I am learning hard to fully control AI. AI is the technology that humanity must learn and control. It can solve many problems but also can be the greatest threat to humanity.
 
 
-## Contact me on Social
 
-<a href="https://www.instagram.com/is_motivation_ss0ng/" class="button button--large">Instagram</a>
