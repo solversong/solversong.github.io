@@ -15,7 +15,7 @@ I'm an AI researcher who is especially interested in Multi-Modal learning, becau
 
 Feel free to contact me on social profile and email! I will link the following pages and also my CV!.
 
-<a href="/pdf/송인성_CV.pdf" target="_blank" class="button button--medium"><i class="fa fa-file-pdf"></i> CV</a>
+<a href="/pdf/CV.pdf" target="_blank" class="button button--medium"><i class="fa fa-file-pdf"></i> CV</a>
 <a href="mailto:insungsong5@gmail.com" class="button button--medium"><i class="fa fa-envelope"></i> E-mail</a>
 <a href="https://github.com/solversong" target="_blank" class="button button--medium"><i class="fa-brands fa-github"></i> Github</a>
 <a href="https://www.linkedin.com/in/in-sung-song-437639271/" target="_blank" class="button button--medium"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
